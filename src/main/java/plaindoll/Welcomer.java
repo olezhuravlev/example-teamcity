@@ -15,6 +15,6 @@ public class Welcomer {
   }
 
   public String sayNeedMoreVespeneGas() {
-    return "We require more Vespene Gas, hunter!";
+    return "We require more Vespene Gas, gorgeous hunter!";
   }
 }
